@@ -1,1 +1,1 @@
-# back-api
+# nuxt-back-api
